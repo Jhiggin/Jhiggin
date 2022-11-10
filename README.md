@@ -7,7 +7,7 @@ I work in the Business Intelligence and Data Engineering space.  You'll see a wi
 * [Twitch](https://www.twitch.tv/codenamesql)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhiggin&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhiggin&count_private=true&theme=radical)
 
 
 ### Things I'm working on
