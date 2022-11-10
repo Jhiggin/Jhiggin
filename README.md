@@ -7,6 +7,9 @@ I work in the Business Intelligence and Data Engineering space.  You'll see a wi
 * [Twitch](https://www.twitch.tv/codenamesql)
 
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhiggin&count_private=true)
+
+
 ### Things I'm working on
 * [ITAM](https://github.com/Jhiggin/ITAM) - Powershell and SQL scripts to monitor your SQL Server estate.  Includes a Power BI Dashboard to visual the data returned.
 * [Funtional Python for ETL](https://github.com/Jhiggin/Functional_Python_for_ETL) - Python presentation covering some concepts of code reuse for ETL pipelines.
