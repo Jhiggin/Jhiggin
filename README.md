@@ -17,7 +17,7 @@ I work in the Business Intelligence and Data Engineering space.  You'll see a wi
 
 
 ### Equipment I use
-* [Macbook Pro 2021](https://www.amazon.com/Apple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core/dp/B09JQK9DK5/ref=sr_1_3?crid=TOFT7F4I1VK1&keywords=macbook%2Bpro%2B2021%2B16%2Binch&qid=1667147897&qu=eyJxc2MiOiIzLjIyIiwicXNhIjoiMi43NSIsInFzcCI6IjEuODUifQ%3D%3D&sprefix=macbook%2Bpro%2B2021%2B1%2Caps%2C96&sr=8-3&ufe=app_do%3Aamzn1.fos.17f26c18-b61b-4ce9-8a28-de351f41cffb&th=1) - 16 inch | Apple M1 Pro | 16 GB Memory
+* [Macbook Pro M2 Max](https://www.amazon.com/Apple-MacBook-Laptop-12%E2%80%91core-30%E2%80%91core/dp/B0BSHG76FM/ref=asc_df_B0BSHG76FM?tag=bingshoppinga-20&linkCode=df0&hvadid=80264481976673&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583864001373713&th=1) - 14 inch | Apple M2 Max | 32 GB Memory | 30 Cores
 * [Samsung 49inch Curved Monitor](https://www.amazon.com/Samsung-Double-49-Inch-Monitor-LC49RG90SSNXZA/dp/B07L9HCJ2V/ref=sr_1_2_sspa?keywords=samsung+49+inch+curved+monitor&qid=1667147850&qu=eyJxc2MiOiIyLjk0IiwicXNhIjoiMi43MSIsInFzcCI6IjIuMzMifQ%3D%3D&sprefix=Samsung+49inch+cur%2Caps%2C84&sr=8-2-spons&psc=1)
 * [Elgato mk2 StreamDeck](https://www.amazon.com/Elgato-Stream-Deck-MK-2-Controller/dp/B09738CV2G/ref=sr_1_2_sspa?crid=EO5GU3TOWNWF&keywords=elgato%2Bstream%2Bmk2&qid=1667148114&qu=eyJxc2MiOiIwLjk0IiwicXNhIjoiMS4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=elgato%2Bmk2%2Bstr%2Caps%2C82&sr=8-2-spons&th=1)
 * [Elgato FaceCam](https://www.amazon.com/Elgato-Facecam-Conferencing-Streaming-Fixed-Focus/dp/B0973DV11T/ref=sr_1_1_sspa?crid=EO5GU3TOWNWF&keywords=elgato%2Bstream%2Bmk2&qid=1667148114&qu=eyJxc2MiOiIwLjk0IiwicXNhIjoiMS4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=elgato%2Bmk2%2Bstr%2Caps%2C82&sr=8-1-spons&th=1)
